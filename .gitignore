@@ -1,0 +1,10 @@
+#Files to ignore
+*.fastq
+*.fastq.gz
+*.csv
+
+
+#folders to ignore
+results/
+input/
+logs/
