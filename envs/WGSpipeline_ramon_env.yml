@@ -1,0 +1,12 @@
+name: WGSpipeline_ramon_env
+channels: 
+  - bioconda
+  - defaults
+dependencies:
+  - snakemake
+  - kraken2
+  - kaiju
+  - clark
+  - fastqc
+  - trimmomatic
+  
